@@ -1,7 +1,7 @@
 # Olá sou Bruce 🖐
 ![linkedin(https://www.linkedin.com/in/bruce-maximiano-078662363/)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![whatsapp(5521974663896)](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![gmail(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](silvabruce777@gmail.com)
+
 
 ### Sobre Mim 🤓
 Estou em transição para a área de desenvolvimento de software e encontrei afinidade com o backend, pois gosto de entender a parte lógica da aplicação — como os dados circulam e como as requisições são tratadas. Essa área tem se mostrado um caminho natural para mim, pois me permite unir raciocínio lógico e foco em soluções.
